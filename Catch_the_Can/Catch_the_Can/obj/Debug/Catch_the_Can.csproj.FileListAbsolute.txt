@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\bin\Debug\Catch_the_Can.exe.config
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\bin\Debug\Catch_the_Can.exe
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\bin\Debug\Catch_the_Can.pdb
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.Form1.resources
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.Properties.Resources.resources
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.exe
+C:\Users\hp\Desktop\Catch_the_Can\Catch_the_Can\obj\Debug\Catch_the_Can.pdb

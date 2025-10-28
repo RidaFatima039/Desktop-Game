@@ -166,7 +166,7 @@ namespace Catch_the_Can
             if (timer != null)
             {
                 timer.Stop();
-                timer.Dispose();
+                #timer.Dispose();
             }
         }
     }

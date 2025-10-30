@@ -1,0 +1,13 @@
+name: RidaFatima039
+
+on:
+  push:
+   branches: [main]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Greetings
+        run: echo "hello from rida"
